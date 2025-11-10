@@ -1,0 +1,16 @@
+  
+   
+	
+	</div>
+</div>
+  
+  <div class="footer_bottom_area">
+      <div class="footer_menu">
+      
+      </div>
+      <div class="copyright_text">
+        <p>Copyright &copy; 2045 The Food Donating Website. All rights reserved | Design by <a target="_blank" rel="nofollow" href="#"> </a></p>
+        <p></p>
+      </div>
+    </div>
+
